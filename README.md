@@ -4,7 +4,7 @@ English · [简体中文](README.zh-CN.md)
 
 **Algorithm Engineer · Suzhou, China**
 
-I focus on machine vision, industrial software, and data analysis, combining C++ / Qt engineering with Python-based analytical tools. I am also pursuing a master's degree in Artificial Intelligence.
+I focus on machine vision, industrial software, and data analysis, combining C++ / Qt engineering with Python-based analytical tools.
 
 ## Technical Focus
 
@@ -49,8 +49,8 @@ Additional experiments include image enhancement, geometric measurement, and sen
 
 ## Education
 
-**Master's Programme in Artificial Intelligence — In Progress**  
-A joint programme offered by China Jiliang University and Anglia Ruskin University (ARU), United Kingdom.  
+**Master's Programme in Artificial Intelligence**  
+CJLU-ARU Joint Institute — China Jiliang University & Anglia Ruskin University (ARU), United Kingdom.  
 
 **Undergraduate Studies in Electrical Engineering and Automation**  
 Jiangsu University of Technology.
