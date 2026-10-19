@@ -49,8 +49,9 @@ Additional experiments include image enhancement, geometric measurement, and sen
 
 ## Education
 
-**Master's Programme in Artificial Intelligence**  
-CJLU-ARU Joint Institute — China Jiliang University & Anglia Ruskin University (ARU), United Kingdom.  
+**Artificial Intelligence**  
+CJLU-ARU Joint Institute  
+Degree-awarding university: Anglia Ruskin University (ARU), United Kingdom.
 
 **Undergraduate Studies in Electrical Engineering and Automation**  
 Jiangsu University of Technology.
