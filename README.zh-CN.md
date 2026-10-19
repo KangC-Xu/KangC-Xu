@@ -34,7 +34,7 @@
 
 ## 个人工程实践
 
-### OnePiece — 算法插件平台
+### [OnePiece — 算法插件平台](https://github.com/KangC-Xu/OnePiece)
 
 个人编写的 C++ / Qt 学习项目，用于实践如何把算法组织成可交互的桌面工具。
 
@@ -43,7 +43,7 @@
 - **交互流程：** 通过 Qt Widgets 提供参数表单、图像输入、算法执行和结果预览。
 
 **技术栈：** C++17 · Qt 6 · OpenCV · ONNX Runtime · CMake  
-**状态：** 个人学习项目，源码暂未发布到 GitHub。
+**源码：** [GitHub 仓库](https://github.com/KangC-Xu/OnePiece) · MIT 许可证 · 中英文文档。
 
 其他实验涉及图像增强、几何测量和传感器通信。
 
