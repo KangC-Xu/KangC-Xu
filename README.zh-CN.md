@@ -50,8 +50,7 @@
 ## 教育经历
 
 **人工智能专业**  
-中国计量大学安格利亚鲁斯金联合学院  
-学位授予院校：英国安格利亚鲁斯金大学（Anglia Ruskin University，ARU）。
+英国安格利亚鲁斯金大学（Anglia Ruskin University，ARU）。
 
 **本科 · 电气工程及其自动化**  
 江苏理工学院。
