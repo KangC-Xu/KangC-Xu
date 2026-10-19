@@ -50,8 +50,7 @@ Additional experiments include image enhancement, geometric measurement, and sen
 ## Education
 
 **Artificial Intelligence**  
-CJLU-ARU Joint Institute  
-Degree-awarding university: Anglia Ruskin University (ARU), United Kingdom.
+Anglia Ruskin University (ARU), United Kingdom.
 
 **Undergraduate Studies in Electrical Engineering and Automation**  
 Jiangsu University of Technology.
