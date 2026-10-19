@@ -28,7 +28,7 @@
 
 **技术栈：** C++17 · Qt 6 Widgets · OpenCV · CMake · VTK · Qwt
 
-![工业测量软件通用架构：Qt 操作界面与测量流程协调视觉算法、设备集成和检测数据。](assets/industrial-measurement.svg)
+![工业测量软件通用架构：Qt 操作界面与测量流程协调视觉算法、设备集成和检测数据。](assets/industrial-measurement.zh-CN.svg)
 
 *以上仅介绍通用工程职责，公司源码、客户信息、内部参数与实现细节不公开。*
 
