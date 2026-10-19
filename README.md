@@ -49,10 +49,10 @@ Additional experiments include image enhancement, geometric measurement, and sen
 
 ## Education
 
-**Artificial Intelligence**  
+**Master's · Artificial Intelligence**  
 Anglia Ruskin University (ARU), United Kingdom.
 
-**Undergraduate Studies in Electrical Engineering and Automation**  
+**Bachelor's · Electrical Engineering and Automation**  
 Jiangsu University of Technology.
 
 ## Contact
