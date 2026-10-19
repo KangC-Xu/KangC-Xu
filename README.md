@@ -34,7 +34,7 @@ I develop algorithms and application software for an internal industrial inspect
 
 ## Personal Engineering
 
-### OnePiece — Algorithm Plugin Platform
+### [OnePiece — Algorithm Plugin Platform](https://github.com/KangC-Xu/OnePiece)
 
 A personal C++ / Qt learning project for exploring how algorithms become usable desktop tools.
 
@@ -43,7 +43,7 @@ A personal C++ / Qt learning project for exploring how algorithms become usable 
 - **Interactive workflow:** Parameter forms, image input, algorithm execution, and result previews in a Qt Widgets interface.
 
 **Technology:** C++17 · Qt 6 · OpenCV · ONNX Runtime · CMake  
-**Status:** Personal learning project; source not yet published on GitHub.
+**Source:** [GitHub repository](https://github.com/KangC-Xu/OnePiece) · MIT License · English / 简体中文 documentation.
 
 Additional experiments include image enhancement, geometric measurement, and sensor communications.
 
