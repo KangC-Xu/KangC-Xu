@@ -2,17 +2,26 @@
 
 English · [简体中文](README.zh-CN.md)
 
-**Algorithm Engineer · Suzhou, China**
+**Algorithm Engineer · Applied AI & Machine Vision · Suzhou, China**
 
-I focus on machine vision, industrial software, and data analysis, combining C++ / Qt engineering with Python-based analytical tools.
+I build AI-powered vision and industrial measurement tools, combining YOLO model training, ONNX inference, and C++ / Qt application development. ChatGPT and Codex are part of my everyday engineering workflow.
 
 ## Technical Focus
 
 | Area | Technologies and interests |
 | --- | --- |
 | Industrial software | C++17, Qt 6, CMake, modular desktop applications, and device integration |
-| Machine vision | OpenCV, 2D / 3D measurement, calibration, and model inference |
+| Machine vision | OpenCV, 2D / 3D measurement, and calibration |
+| Applied AI | YOLO, Docker-based training, model validation, ONNX export, and ONNX Runtime |
+| AI tools & workflows | ChatGPT, Codex, Ollama, reusable skills, and MCP integrations |
 | Data analysis | Python, pandas, NumPy, and data visualization |
+
+## AI in Practice
+
+- **Vision model training:** Train YOLO object-detection models in Docker, using mounted folders for datasets and experiment outputs. Work with training and validation runs and export models to ONNX for inference integration.
+- **Inference in applications:** Integrate ONNX inference, image preprocessing, and result visualization into desktop applications. [OnePiece](https://github.com/KangC-Xu/OnePiece) includes a MobileNet classification example using ONNX Runtime.
+- **AI-assisted engineering:** Primarily use ChatGPT and Codex for code understanding, implementation, debugging, and bilingual documentation. Explore reusable skills, MCP integrations, and codebase knowledge graphs to provide relevant project context, with changes checked through review, builds, focused tests, and visual inspection.
+- **Local model exploration:** Have used Ollama to run models locally, alongside hosted AI tools.
 
 ## Engineering Experience
 
