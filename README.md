@@ -68,4 +68,4 @@ Jiangsu University of Technology.
 
 ## Contact
 
-[xukangc.pro@gamil.com](mailto:xukangc.pro@gamil.com)
+[xukangc.pro@gmail.com](mailto:xukangc.pro@gmail.com)
